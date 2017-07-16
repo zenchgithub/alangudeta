@@ -1,0 +1,16 @@
+
+.class { behavior:url(js/PIE.htc); position:absolute;}
+
+.social-links a{
+	behavior:url(js/PIE.htc); position:relative;
+}
+
+a.magnifier:hover .zoom{
+	display: block;
+}
+a.magnifier .zoom, .bottom_p{
+	display: none;
+}
+.badge-1 { behavior:url(js/PIE.htc); position:relative;}
+.badge-2 { behavior:url(js/PIE.htc); position:relative;}
+
